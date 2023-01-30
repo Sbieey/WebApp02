@@ -1,0 +1,36 @@
+div{
+    background-color: lightgreen;
+}
+p{
+color: green;
+}
+h2{
+color: black;
+}
+a{
+color:maroon
+}
+#try {
+    color: brown;
+
+}
+.main-class{
+    background-color: deeppink;
+}
+
+a:link{
+    color: dimgray; 
+    background-color: aqua;
+}
+a:visited{
+    color: grey;
+    background-color: darkred;
+}
+a:hover{
+    color: lightslategrey;
+    background-color: darkgoldenrod;
+}
+a:active{
+    color: darkkhaki;
+    background-color: chocolate;
+}
